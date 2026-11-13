@@ -24,8 +24,8 @@ e as anotações do que aprendi ou onde travei.
 | Módulo | Tema | O que pratico | Status |
 |---|---|---|---|
 | 01 | Fundamentos | SELECT, AS, DISTINCT, LIMIT, ORDER BY, WHERE, AND, OR, IS NULL | ✅ |
-| 02 | Filtros avançados | LIKE, IN, BETWEEN, NOT | 🔄 |
-| 03 | Funções de texto | CONCAT, UPPER, LOWER, TRIM, SUBSTRING | ⬜ |
+| 02 | Filtros avançados | NOT, IN, NOT IN, BETWEEN, LIKE, ILIKE | ✅ |
+| 03 | Funções de texto | CONCAT, UPPER, LOWER, TRIM, SUBSTRING | 🔄 |git
 | 04 | Funções de data | Extrair partes de datas, somar e calcular diferenças | ⬜ |
 | 05 | Conversão de dados | CAST, COALESCE | ⬜ |
 | 06 | Condicionais | CASE WHEN | ⬜ |
