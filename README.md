@@ -34,8 +34,8 @@ A numeração começa no 01 porque o módulo de introdução da trilha é só a 
 | 01 | [Fundamentos](01-Fundamentos-SELECT) | SELECT, AS, DISTINCT, LIMIT, ORDER BY, WHERE, AND, OR, IS NULL | ✅ |
 | 02 | [Filtros avançados](02-Filtros-Avancados) | NOT, IN, NOT IN, BETWEEN, LIKE, ILIKE | ✅ |
 | 03 | [Funções de string](03-Funcoes-de-String) | CONCAT, UPPER, LOWER, SUBSTRING, TRIM, LENGTH | ✅ |
-| 04 | [Funções de data](04-Funcoes-de-Data) | CURRENT_DATE, EXTRACT, DATE_PART, INTERVAL, TO_CHAR | 🔄 |
-| 05 | [Conversão de dados](05-Conversao-de-Dados) | CAST, ::, COALESCE, NULLIF | ⬜ |
+| 04 | [Funções de data](04-Funcoes-de-Data) | CURRENT_DATE, EXTRACT, DATE_PART, INTERVAL, TO_CHAR | ✅ |
+| 05 | [Conversão de dados](05-Conversao-de-Dados) | CAST, ::, COALESCE, NULLIF | 🔄 |
 | 06 | [Condicionais](06-Condicionais) | CASE WHEN | ⬜ |
 | 07 | [Funções de agregação](07-Funcoes-de-Agregacao) | COUNT, COUNT DISTINCT, SUM, AVG, MIN, MAX | ⬜ |
 | 08 | [Agrupamento](08-Agrupamento) | GROUP BY, HAVING | ⬜ |
